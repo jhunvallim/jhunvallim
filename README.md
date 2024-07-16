@@ -1,4 +1,4 @@
-# 🙋‍♂️ Olá! Sou o Hélio Vallim mas todos me chamam de Jhun.
+# 🙋‍♂️ Olá! Sou o Hélio Vallim, mas todos me chamam de Jhun.
 
 ## 💻 Sou Analista de implantação, futuro full-stack developer, gamer por natureza e rockeiro o tempo todo. Atualmente em transição de carreira.
 
