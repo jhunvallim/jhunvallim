@@ -1,6 +1,6 @@
 # 🙋‍♂️ Olá! Sou o Hélio Vallim, mas todos me chamam de Jhun.
 
-## 💻 Sou Analista de implantação, futuro full-stack developer, gamer por natureza e rockeiro o tempo todo. Atualmente em transição de carreira.
+## 💻 Full-stack developer, gamer por natureza e rockeiro o tempo todo.
 
 <img src="https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg" width="100%" height="150 px">
 
