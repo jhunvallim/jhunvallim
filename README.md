@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Transformando café em código e ideias em soluções</p>
+<h3 align="left">Transformando café em código e ideias em soluções</h3>
 
 ###
 
